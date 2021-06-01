@@ -1,0 +1,22 @@
+h1{
+    color:violet;
+}
+.header{
+background-color:cyan; 
+display:flex;
+justify-content:space-between;
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.footer{
+    display: flex;
+    justify-content: flex-end;
+} 
+li{
+    text-align: centre;
+    color:rgb(17, 226, 174);
+}
+
